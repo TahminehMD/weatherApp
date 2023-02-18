@@ -1,0 +1,12 @@
+p{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("https://images.pexels.com/photos/311039/pexels-photo-311039.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+#content{
+    text-align: center;
+}
